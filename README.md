@@ -7,6 +7,10 @@
 A minimal [Alpine Linux][alpine] based [Docker][docker] container with
 [s6 overlay][s6-overlay].
 
+## License
+
+alpine-s6 is licensed under the MIT License.
+
 [alpine-s6]: https://github.com/scoobadog/alpine-s6
 [alpine]: https://hub.docker.com/_/alpine/
 [docker]: https://www.docker.com/
