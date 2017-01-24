@@ -1,5 +1,5 @@
-![Latest Tag](https://img.shields.io/github/tag/scoobadog/alpine-s6.svg)
-![Docker Build](https://img.shields.io/docker/automated/scoobadog/alpine-s6.svg)
+[![Latest Tag](https://img.shields.io/github/tag/scoobadog/alpine-s6.svg)](https://hub.docker.com/r/scoobadog/alpine-s6/tags/)
+[![Docker Build](https://img.shields.io/docker/automated/scoobadog/alpine-s6.svg)](https://hub.docker.com/r/scoobadog/alpine-s6/builds/)
 ![Docker Pulls](https://img.shields.io/docker/pulls/scoobadog/alpine-s6.svg)
 
 # [alpine-s6][alpine-s6]
